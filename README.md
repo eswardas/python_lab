@@ -1,2 +1,24 @@
-# python_lab
-This repository contains the programs/works/codes that I successfully executed and obtained the desired result in my python programming lab.
+## python_lab
+#  This repository contains the programs/works/codes that I successfully executed and obtained the desired result in my python programming lab.
+
+**Lab program 1** : _file name - prog1_arithmetic.py_ :
+                    Aim : Write a program that takes two numbers and perform arithmetic operations.
+
+**Lab program 2** : _file name - prog2_areaofcircle.py_ :
+                    Aim : Write a program that calculates area of the circle.
+
+**Lab program 3** : _file name - prog3_areaoftriangle.py_ :
+                    Aim : Write a program that calculates area of the triangle.
+
+**Lab program 4** : _file name - prog4_areaofrectangle.py_ :
+                    Aim : Write a program that calculates area of the rectangle.
+
+**Lab program 5** : _file name - prog5_percentageofmark.py_ :
+                    Aim : Write a program to calculate total mark and percentage of 5 subjects.
+
+**Lab program 6** : _file name - prog6_swapval.py_ :
+                    Aim : Write a program to swap values without using temperory variables.
+
+**Lab program 7** : _file name - prog7_incredecre.py_ :
+                    Aim : Write a program to input a number and increment the number by 5 and
+                          decrement the number by 3
