@@ -21,6 +21,16 @@
 
 **Lab program 7** : _file name - prog7_incredecre.py_ :
                     Aim : Write a program to input a number and increment the number by 5 and
-                          decrement the number by 3
-**Lab program 7** : _file name - prog7_incredecre.py_ :
-                    Aim :
+                          decrement the number by 3.
+
+**Lab program 8** : _file name - prog8_positiveornegative.py_ :
+                    Aim : Write a program to check whether the number is positive, negative or zero.
+
+**Lab program 9** : _file name - prog9_positivenumfromlist.py_ :
+                    Aim : Write a program to generate list of positive numbers from a given list of integers.
+
+**Lab program 10** : _file name - prog10_squareofnnum.py_ :
+                    Aim : Write a program to print the square of n numbers.
+
+**Lab program 11** : _file name - prog11_leapyear.py_ :
+                    Aim : Write a program to display future leap years from current year to a final year given by the user.
