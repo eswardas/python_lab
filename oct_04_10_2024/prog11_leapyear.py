@@ -1,4 +1,6 @@
-curr_year = 2024
+import datetime
+
+curr_year = datetime.date.today().year
 end_year = int(input("Enter the end year:"))
 
 for i in range(curr_year,end_year+1):
