@@ -1,5 +1,5 @@
-## python_lab
-#  This repository contains the programs/works/codes that I successfully executed and obtained the desired result in my python programming lab.
+# python_lab
+##  MCA 1st Semester Python lab programs
 
 **Lab program 1** : _file name - prog1_arithmetic.py_ :
                     Aim : Write a program that takes two numbers and perform arithmetic operations.
@@ -22,3 +22,5 @@
 **Lab program 7** : _file name - prog7_incredecre.py_ :
                     Aim : Write a program to input a number and increment the number by 5 and
                           decrement the number by 3
+**Lab program 7** : _file name - prog7_incredecre.py_ :
+                    Aim :
