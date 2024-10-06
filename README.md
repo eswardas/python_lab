@@ -37,4 +37,3 @@
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWI5cGphaHZ5OTB1dXp0MThvaW1zMnlwcWhjZ3I1a2E1Yjc2OXFpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" alt="Description" width="1200" height="200">
 
-![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWI5cGphaHZ5OTB1dXp0MThvaW1zMnlwcWhjZ3I1a2E1Yjc2OXFpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif)
