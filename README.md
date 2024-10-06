@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Python_Lab-green" alt="Python Lab" width="200" height="50">
+
 # python_lab
 ##  MCA 1st Semester Python lab programs
 
