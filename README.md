@@ -2,7 +2,7 @@
 
 ##  MCA 1st Semester Python lab programs
 
-<img src="https://img.shields.io/badge/September_27_2024-white?style=plastic&logo=python&logoColor=black" alt="Python Lab" width="80" height="10">
+<img src="https://img.shields.io/badge/September_27_2024-white?style=plastic&logo=python&logoColor=black" alt="Python Lab" width="100" height="25">
 
 **Lab program 1** : _file name - prog1_arithmetic.py_ :
                     Aim : Write a program that takes two numbers and perform arithmetic operations.
