@@ -17,6 +17,7 @@
                     Aim : Write a program that calculates area of the rectangle.
 
 <img src="https://img.shields.io/badge/01_10_2024-yellow?style=for-the-badge&logo=python&logoColor=black" alt="01/10/2024" width="100" height="25">
+
 **Lab program 5** : _file name - prog5_percentageofmark.py_ :
                     Aim : Write a program to calculate total mark and percentage of 5 subjects.
 
@@ -28,6 +29,7 @@
                           decrement the number by 3.
 
 <img src="https://img.shields.io/badge/04_10_2024-yellow?style=for-the-badge&logo=python&logoColor=black" alt="04/10/2024" width="100" height="25">
+
 **Lab program 8** : _file name - prog8_positiveornegative.py_ :
                     Aim : Write a program to check whether the number is positive, negative or zero.
 
