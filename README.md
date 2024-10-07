@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/MCA_1st_Semester_Python_Lab_Programs-white?style=for-the-badge" alt="Python Lab" width="600" height="50">
+<img src="https://img.shields.io/badge/MCA_1st_Semester_Python_Lab_Programs-black?style=for-the-badge" alt="Python Lab" width="600" height="50">
 
 ##  List of programs
 
