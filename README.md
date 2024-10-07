@@ -2,7 +2,7 @@
 
 ##  MCA 1st Semester Python lab programs
 
-<img src="https://img.shields.io/badge/September_27_2024-white?style=plastic&logo=python&logoColor=black" alt="Python Lab" width="100" height="25">
+<img src="https://img.shields.io/badge/04_09_2024-#0df6a5?style=social&logo=python&logoColor=black" alt="Python Lab" width="100" height="20">
 
 **Lab program 1** : _file name - prog1_arithmetic.py_ :
                     Aim : Write a program that takes two numbers and perform arithmetic operations.
@@ -16,7 +16,7 @@
 **Lab program 4** : _file name - prog4_areaofrectangle.py_ :
                     Aim : Write a program that calculates area of the rectangle.
 
-<img src="https://img.shields.io/badge/October_01_2024-white?style=for-the-badge&logo=python&logoColor=black" alt="Python Lab" width="100" height="25">
+<img src="https://img.shields.io/badge/01_10_2024-#0df6a5?style=social&logo=python&logoColor=black" alt="Python Lab" width="100" height="25">
 **Lab program 5** : _file name - prog5_percentageofmark.py_ :
                     Aim : Write a program to calculate total mark and percentage of 5 subjects.
 
@@ -27,7 +27,7 @@
                     Aim : Write a program to input a number and increment the number by 5 and
                           decrement the number by 3.
 
-<img src="https://img.shields.io/badge/October_04_2024-white?style=social&logo=python&logoColor=black" alt="Python Lab" width="100" height="25">
+<img src="https://img.shields.io/badge/04_10_2024-#0df6a5?style=social&logo=python&logoColor=white" alt="Python Lab" width="100" height="25">
 **Lab program 8** : _file name - prog8_positiveornegative.py_ :
                     Aim : Write a program to check whether the number is positive, negative or zero.
 
