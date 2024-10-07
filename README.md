@@ -1,6 +1,6 @@
-<img src="https://img.shields.io/badge/Python_Lab-blue?style=plastic" alt="Python Lab" width="200" height="50">
+<img src="https://img.shields.io/badge/MCA_1st_Semester_Python_Lab_Programs-white?style=for-the-badge" alt="Python Lab" width="600" height="50">
 
-##  MCA 1st Semester Python lab programs
+##  List of programs
 
 <img src="https://img.shields.io/badge/27_09_2024-yellow?style=for-the-badge&logo=python&logoColor=black" alt="27/09/2024" width="100" height="25">
 
