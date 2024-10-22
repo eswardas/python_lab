@@ -15,6 +15,7 @@
 
 **Lab program 4** : _file name - prog4_areaofrectangle.py_ :
                     Aim : Write a program that calculates area of the rectangle.
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="5">
 
 <img src="https://img.shields.io/badge/01_10_2024-darkgreen?style=for-the-badge&logo=python&logoColor=yellow" alt="01/10/2024" width="100" height="25">
 
@@ -27,6 +28,7 @@
 **Lab program 7** : _file name - prog7_incredecre.py_ :
                     Aim : Write a program to input a number and increment the number by 5 and
                           decrement the number by 3.
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="5">
 
 <img src="https://img.shields.io/badge/04_10_2024-darkgreen?style=for-the-badge&logo=python&logoColor=yellow" alt="04/10/2024" width="100" height="25">
 
@@ -41,6 +43,58 @@
 
 **Lab program 11** : _file name - prog11_leapyear.py_ :
                     Aim : Write a program to display future leap years from current year to a final year given by the user.
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="5">
+
+<img src="https://img.shields.io/badge/09_10_2024-darkgreen?style=for-the-badge&logo=python&logoColor=yellow" alt="09/10/2024" width="100" height="25">
+
+**Lab program 12** : _file name - prog12_largestof3num.py_ :
+                    Aim : Write a program to find largest of three numbers.
+
+**Lab program 13** : _file name - prog13_factorial.py_ :
+                    Aim : Write a program to find factorial of a number.
+
+**Lab program 14** : _file name - prog14_oddoreven.py_ :
+                    Aim : Write a program to check whether the given number is odd or even.
+
+**Lab program 15** : _file name - prog15_vowelinastring.py_ :
+                    Aim : Write a program to check vowels in a string.
+
+**Lab program 16** : _file name - prog16_swaplistelements.py_ :
+                    Aim : Write a program to swap first and last element in a list.
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="5">
+
+<img src="https://img.shields.io/badge/16_10_2024-darkgreen?style=for-the-badge&logo=python&logoColor=yellow" alt="16/10/2024" width="100" height="25">
+
+**Lab program 17** : _file name - prog17_appendtolist.py_ :
+                    Aim : Write a program to create an emoty list and add elements to the list.
+
+**Lab program 18** : _file name - prog18_wordoccurance.py_ :
+                    Aim : Write a program to count the occurances of each word in a line of text.
+
+**Lab program 19** : _file name - prog19_occuranceofA.py_ :
+                    Aim : Write a program to store a list of first names and count the occurances of letter 'A' within the list.
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="5">
+
+<img src="https://img.shields.io/badge/18_10_2024-darkgreen?style=for-the-badge&logo=python&logoColor=yellow" alt="18/10/2024" width="100" height="25">
+
+**Lab program 20** : _file name - prog20_overwhen100.py_ :
+                    Aim : Write a program to prompt the user for a list of integers and for all values greater than 100 store '100' instead.
+
+**Lab program 21** : _file name - prog21_intcheck.py_ :
+                    Aim : Enter two list of intergers and check:
+                          a. The lists are of same length.
+                          b. Whether the lists sums to same values.
+                          c. Whether any value occur in both.
+
+**Lab program 22** : _file name - prog22_replacewithdollar.py_ :
+                    Aim : Write a program to get a string as input and check whether all occurances of 1st character replaced with '$' except the 1st character.
+
+**Lab program 23** : _file name - prog23_swapfirstlast.py_ :
+                    Aim : Write a program to create a string from given string where 1st and last character are exchanged.
+
+**Lab program 24** : _file name - prog24_colorswap.py_ :
+                    Aim : Write a program to create a list of colours with a ',' seperated colour names entered by the user and display 1st and last colour in the list.
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="5">
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWI5cGphaHZ5OTB1dXp0MThvaW1zMnlwcWhjZ3I1a2E1Yjc2OXFpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" alt="Description" width="1200" height="200">
 
