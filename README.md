@@ -1,4 +1,4 @@
-<body style="background-color:red">
+
 
 <img src="https://img.shields.io/badge/MCA_1st_Semester_Python_Lab_Programs-darkblue?style=for-the-badge" alt="Python Lab" width="600" height="50">
 
@@ -100,5 +100,5 @@
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWI5cGphaHZ5OTB1dXp0MThvaW1zMnlwcWhjZ3I1a2E1Yjc2OXFpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" alt="Description" width="1200" height="200">
 
-</body>
+
 
