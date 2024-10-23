@@ -98,6 +98,12 @@
                     Aim : Write a program to create a list of colours with a ',' seperated colour names entered by the user and display 1st and last colour in the list.
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="5">
 
+<img src="https://img.shields.io/badge/23_10_2024-darkgreen?style=for-the-badge&logo=python&logoColor=yellow" alt="23/10/2024" width="100" height="25">
+
+**Lab program 25** : _file name - prog25_minmaxsortsumcount.py_ :
+                    Aim : Write a program to find the lowest value,highest value,count,sum,reverse order, sorted order of the items in the list using built in functions.
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="5">
+
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWI5cGphaHZ5OTB1dXp0MThvaW1zMnlwcWhjZ3I1a2E1Yjc2OXFpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" alt="Description" width="1200" height="200">
 
 
