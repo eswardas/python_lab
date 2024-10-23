@@ -17,7 +17,7 @@
 
 **Lab program 4** : _file name - prog4_areaofrectangle.py_ :
                     Aim : Write a program that calculates area of the rectangle.
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="5">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="10">
 
 <img src="https://img.shields.io/badge/01_10_2024-darkgreen?style=for-the-badge&logo=python&logoColor=yellow" alt="01/10/2024" width="100" height="25">
 
@@ -30,7 +30,7 @@
 **Lab program 7** : _file name - prog7_incredecre.py_ :
                     Aim : Write a program to input a number and increment the number by 5 and
                           decrement the number by 3.
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="5">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="10">
 
 <img src="https://img.shields.io/badge/04_10_2024-darkgreen?style=for-the-badge&logo=python&logoColor=yellow" alt="04/10/2024" width="100" height="25">
 
@@ -45,7 +45,7 @@
 
 **Lab program 11** : _file name - prog11_leapyear.py_ :
                     Aim : Write a program to display future leap years from current year to a final year given by the user.
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="5">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="10">
 
 <img src="https://img.shields.io/badge/09_10_2024-darkgreen?style=for-the-badge&logo=python&logoColor=yellow" alt="09/10/2024" width="100" height="25">
 
@@ -63,7 +63,7 @@
 
 **Lab program 16** : _file name - prog16_swaplistelements.py_ :
                     Aim : Write a program to swap first and last element in a list.
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="5">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="10">
 
 <img src="https://img.shields.io/badge/16_10_2024-darkgreen?style=for-the-badge&logo=python&logoColor=yellow" alt="16/10/2024" width="100" height="25">
 
@@ -75,7 +75,7 @@
 
 **Lab program 19** : _file name - prog19_occuranceofA.py_ :
                     Aim : Write a program to store a list of first names and count the occurances of letter 'A' within the list.
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="5">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="10">
 
 <img src="https://img.shields.io/badge/18_10_2024-darkgreen?style=for-the-badge&logo=python&logoColor=yellow" alt="18/10/2024" width="100" height="25">
 
@@ -96,13 +96,13 @@
 
 **Lab program 24** : _file name - prog24_colorswap.py_ :
                     Aim : Write a program to create a list of colours with a ',' seperated colour names entered by the user and display 1st and last colour in the list.
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="5">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="10">
 
 <img src="https://img.shields.io/badge/23_10_2024-darkgreen?style=for-the-badge&logo=python&logoColor=yellow" alt="23/10/2024" width="100" height="25">
 
 **Lab program 25** : _file name - prog25_minmaxsortsumcount.py_ :
                     Aim : Write a program to find the lowest value,highest value,count,sum,reverse order, sorted order of the items in the list using built in functions.
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="5">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ0dGloMXFvYm82MnVqdWxiYmhya3cwcTJhNWFwMzQwcjE0a256biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aSxvq2jEInSdW/giphy.gif" alt="Description" width="1200" height="10">
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWI5cGphaHZ5OTB1dXp0MThvaW1zMnlwcWhjZ3I1a2E1Yjc2OXFpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" alt="Description" width="1200" height="200">
 
