@@ -9,5 +9,4 @@ def fib(num):
         b = c
 
 num = int(input("Enter a number:"))
-
-fib(num)
+print(f"Fibonacci series:{fib(num)}")
