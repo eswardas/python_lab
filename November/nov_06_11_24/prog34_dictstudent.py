@@ -47,9 +47,9 @@ for i in range(size):
         failed_students.append(student['Name'])
     print()
 
-print("Passed students:"passed_students)
+print("Passed students:",passed_students)
 print()
-print("Failed students:"failed_students)
+print("Failed students:",failed_students)
 
 
 
