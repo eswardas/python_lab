@@ -104,6 +104,39 @@
                     Aim : Write a program to find the lowest value,highest value,count,sum,reverse order, sorted order of the items in the list using built in functions.
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpsc3dpOXFyMzh4Z2w3dGgyeDV5cGo1czdxMHlxNXFsNDc0NHRvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PR957OU7L95HdIpfQM/giphy.gif" alt="Description" width="1200" height="10">
 
+<img src="https://img.shields.io/badge/25_10_2024-darkgreen?style=for-the-badge&logo=python&logoColor=yellow" alt="25/10/2024" width="100" height="25">
+
+**Lab program 26** : _file name - prog26_fibonacci.py_ :
+                    Aim : Write a program to generate fibonacci series of n numbers.
+
+**Lab program 27** : _file name - prog27_4digitperfsqr.py_ :
+                    Aim : Write a program to generate a list of 4 digit numbers in a given range with all their digits even and the number is a perfect square.
+
+**Lab program 28** : _file name - prog28_patternnumpyrmd.py_ :
+                    Aim : Display the given pyramid with step number accepted from the user.
+                    1
+                    2 4
+                    3 6 9
+
+**Lab program 29** : _file name - prog29_charfreq.py_ :
+                    Aim : Write a program to count numnbers of character(character frequency) in a string.
+
+**Lab program 30** : _file name - prog30_add_ing.py_ :
+                    Aim : Write a program to add 'ing' at the end of a given string. If it already ends with 'ing', then add 'ly'.
+
+**Lab program 31** : _file name - prog31_longestword.py_ :
+                    Aim : Write a program to accept a list of words and return length of the longest word.
+
+**Lab program 32** : _file name - prog32_star_pattern.py_ :
+                    Aim : Construct the following pattern using nested loop
+                    *
+                    * *
+                    * * *
+                    * *
+                    *
+
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpsc3dpOXFyMzh4Z2w3dGgyeDV5cGo1czdxMHlxNXFsNDc0NHRvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PR957OU7L95HdIpfQM/giphy.gif" alt="Description" width="1200" height="10">
+
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWI5cGphaHZ5OTB1dXp0MThvaW1zMnlwcWhjZ3I1a2E1Yjc2OXFpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" alt="Description" width="1200" height="200">
 
 
