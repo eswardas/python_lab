@@ -114,9 +114,10 @@
 
 **Lab program 28** : _file name - prog28_patternnumpyrmd.py_ :
                     Aim : Display the given pyramid with step number accepted from the user.
+                    
                     1
-                    2 4
-                    3 6 9
+                    2  4
+                    3  6  9
 
 **Lab program 29** : _file name - prog29_charfreq.py_ :
                     Aim : Write a program to count numnbers of character(character frequency) in a string.
@@ -129,10 +130,11 @@
 
 **Lab program 32** : _file name - prog32_star_pattern.py_ :
                     Aim : Construct the following pattern using nested loop
+                    
                     *
-                    * *
-                    * * *
-                    * *
+                    *  *
+                    *  *  *
+                    *  *
                     *
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpsc3dpOXFyMzh4Z2w3dGgyeDV5cGo1czdxMHlxNXFsNDc0NHRvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PR957OU7L95HdIpfQM/giphy.gif" alt="Description" width="1200" height="10">
