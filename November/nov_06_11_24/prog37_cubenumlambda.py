@@ -1,5 +1,5 @@
-num = int(input("Enter a number:"))
+num = int(input("Enter the number:"))
 
 cube = lambda num:num**3
 
-print(cube(num))
+print("Cube of the number:",cube(num))
