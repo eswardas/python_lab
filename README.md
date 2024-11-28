@@ -120,7 +120,7 @@
                     3  6  9
 
 **Lab program 29** : _file name - prog29_charfreq.py_ :
-                    Aim : Write a program to count numnbers of character(character frequency) in a string.
+                    Aim : Write a program to count numbers of character(character frequency) in a string.
 
 **Lab program 30** : _file name - prog30_add_ing.py_ :
                     Aim : Write a program to add 'ing' at the end of a given string. If it already ends with 'ing', then add 'ly'.
