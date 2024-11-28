@@ -80,7 +80,7 @@
 <img src="https://img.shields.io/badge/18_10_2024-darkgreen?style=for-the-badge&logo=python&logoColor=yellow" alt="18/10/2024" width="100" height="25">
 
 **Lab program 20** : _file name - prog20_overwhen100.py_ :
-                    Aim : Write a program to prompt the user for a list of integers and for all values greater than 100 store '100' instead.
+                    Aim : Write a program to prompt the user for a list of integers and for all values greater than 100 store 'over' instead.
 
 **Lab program 21** : _file name - prog21_intcheck.py_ :
                     Aim : Enter two list of intergers and check:
