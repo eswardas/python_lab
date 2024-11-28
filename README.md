@@ -68,7 +68,7 @@
 <img src="https://img.shields.io/badge/16_10_2024-darkgreen?style=for-the-badge&logo=python&logoColor=yellow" alt="16/10/2024" width="100" height="25">
 
 **Lab program 17** : _file name - prog17_appendtolist.py_ :
-                    Aim : Write a program to create an emoty list and add elements to the list.
+                    Aim : Write a program to create an empty list and add elements to the list.
 
 **Lab program 18** : _file name - prog18_wordoccurance.py_ :
                     Aim : Write a program to count the occurances of each word in a line of text.
