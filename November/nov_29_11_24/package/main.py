@@ -4,7 +4,7 @@ from Graphics.Graphics_3d import cuboid
 from Graphics.Graphics_3d import sphere
 
 while True:
-    print("Select any one of the option(1/2/3/4/5/6/7/8/9)")
+    print("Select any one of the option(1/2/3/4/5/6/7/8/9)\n")
     option = int(input("1.Area of circle\n2.Perimeter of circle\n3.Area of Rectangle\n4.Perimeter of rectangle\n5.Total surface area of cuboid\n6.Volume of cuboid\n7.Total surface area of sphere\n8.Volume of sphere\n9.Exit\nSelect an option: "))
     if option == 1:
         radius = float(input("Enter the radius of the circle: "))
